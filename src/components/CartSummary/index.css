@@ -1,0 +1,40 @@
+.summary-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.order-total-heading {
+  color: #616e7c;
+  font-size: 26px;
+  margin-bottom: 0;
+}
+.total-rs {
+  color: #000000;
+  font-size: 30px;
+}
+.items-carts {
+  margin-top: 0;
+  color: #616e7c;
+}
+.checkout-btn {
+  width: 100%;
+  height: 45px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.popup-overlay {
+  background: rgba(0, 0, 0, 0.2);
+}
+@media screen and (min-width: 768px) {
+  .total-container {
+    width: 30%;
+  }
+  .checkout-btn {
+    width: 30%;
+  }
+}
