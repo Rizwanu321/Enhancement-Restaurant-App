@@ -5,21 +5,21 @@ Enhancement of<a href="https://github.com/Rizwanu321/Restaurant-App" style="colo
 <p>Login Page</p>
 <a href="https://res.cloudinary.com/dngzbeidb/image/upload/v1727501760/WhatsApp_Image_2024-09-28_at_11.04.53_95d0c69b_bwsipy.jpg" target=_blank_>
     <div style="text-align: center;">
-        <img src="https://res.cloudinary.com/dngzbeidb/image/upload/v1727501760/WhatsApp_Image_2024-09-28_at_11.04.53_95d0c69b_bwsipy.jpg" alt="restaurant-app-login" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+        <img src="https://res.cloudinary.com/dngzbeidb/image/upload/v1727501760/WhatsApp_Image_2024-09-28_at_11.04.53_95d0c69b_bwsipy.jpg" alt="restaurant-app-login" style="max-width:40%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
     </div>
 </a>
 <br/>
 <p>Home Page</p>
 <a href="https://res.cloudinary.com/dngzbeidb/image/upload/v1727501890/WhatsApp_Image_2024-09-28_at_11.04.54_e34e037e_hqvgmu.jpg" target=_blank_>
     <div style="text-align: center;">
-        <img src="https://res.cloudinary.com/dngzbeidb/image/upload/v1727501890/WhatsApp_Image_2024-09-28_at_11.04.54_e34e037e_hqvgmu.jpg" alt="restaurant-app-login" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+        <img src="https://res.cloudinary.com/dngzbeidb/image/upload/v1727501890/WhatsApp_Image_2024-09-28_at_11.04.54_e34e037e_hqvgmu.jpg" alt="restaurant-app-login" style="max-width:40%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
     </div>
 </a>
 <br/>
 <p>Cart Page</p>
 <a href="https://res.cloudinary.com/dngzbeidb/image/upload/v1727501938/WhatsApp_Image_2024-09-28_at_11.04.53_4e3e927c_dcbv5k.jpg" target=_blank_>
     <div style="text-align: center;">
-        <img src="https://res.cloudinary.com/dngzbeidb/image/upload/v1727501938/WhatsApp_Image_2024-09-28_at_11.04.53_4e3e927c_dcbv5k.jpg" alt="restaurant-app-login" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+        <img src="https://res.cloudinary.com/dngzbeidb/image/upload/v1727501938/WhatsApp_Image_2024-09-28_at_11.04.53_4e3e927c_dcbv5k.jpg" alt="restaurant-app-login" style="max-width:40%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
     </div>
 </a>
 <br/>
